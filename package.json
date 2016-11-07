@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Júlio Carneiro",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.2"
+  }
+}
